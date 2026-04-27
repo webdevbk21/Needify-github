@@ -1,0 +1,7 @@
+name = "needify"
+compatibility_date = "2024-04-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "needify-db"
+database_id = "YOUR_DATABASE_ID_HERE"
