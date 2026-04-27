@@ -5,4 +5,4 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "needify_db"
-database_id = "YOUR_DATABASE_ID_HERE"
+database_id = "ed5d7d85-6727-41cb-b830-8eb105e0e323"
